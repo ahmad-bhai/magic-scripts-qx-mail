@@ -74,7 +74,7 @@ function SETITEM(cid) {
     font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;
 ">
 
-    <img src="quotex.svg"
+    <img src="https://magic-scripts-qx-mail.vercel.app/quotex.svg"
         style="width:70px;height:70px;display:block;margin:0 auto 15px;">
 
     <div style="
@@ -158,4 +158,4 @@ box-shadow:none;
 max-width:none;
 `;
     myDialog.showModal();
-              }
+}
